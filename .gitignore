@@ -1,0 +1,26 @@
+/target
+/dist
+**/*.rs.bk
+Cargo.lock
+bin/
+pkg/
+wasm-pack.log
+worker/
+node_modules/
+.cargo-ok
+wrangler.prod.toml
+.mf
+.vscode/
+.DS_Store
+.idea/
+
+node_modules
+dist
+.wrangler
+.dev.vars
+
+# Change them to your taste:
+wrangler.toml
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
